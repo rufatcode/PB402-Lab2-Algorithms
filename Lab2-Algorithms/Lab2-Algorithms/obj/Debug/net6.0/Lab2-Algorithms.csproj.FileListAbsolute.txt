@@ -1,0 +1,15 @@
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/bin/Debug/net6.0/Lab2-Algorithms
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/bin/Debug/net6.0/Lab2-Algorithms.deps.json
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/bin/Debug/net6.0/Lab2-Algorithms.runtimeconfig.json
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/bin/Debug/net6.0/Lab2-Algorithms.dll
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/bin/Debug/net6.0/Lab2-Algorithms.pdb
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/Lab2-Algorithms.csproj.AssemblyReference.cache
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/Lab2-Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/Lab2-Algorithms.AssemblyInfoInputs.cache
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/Lab2-Algorithms.AssemblyInfo.cs
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/Lab2-Algorithms.csproj.CoreCompileInputs.cache
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/Lab2-Algorithms.dll
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/refint/Lab2-Algorithms.dll
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/Lab2-Algorithms.pdb
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/Lab2-Algorithms.genruntimeconfig.cache
+/Volumes/Mac/PB-402/Lab2-Algorithms/Lab2-Algorithms/Lab2-Algorithms/obj/Debug/net6.0/ref/Lab2-Algorithms.dll
